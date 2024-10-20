@@ -1,3 +1,5 @@
+# this is the program where we are palying a game name as black box in which we have score less tahn 21
+
 import random
 import os
 
